@@ -1,0 +1,1 @@
+This project is a simple, rule-based chatbot built with Python. It uses a dictionary of predefined responses and a basic regular expression to match user input to provide relevant answers. The chatbot is designed to handle common greetings and questions, making it an excellent beginner-friendly project for those new to natural language processing and Python programming.
